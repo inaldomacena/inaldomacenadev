@@ -4,7 +4,7 @@
 
 
 
-![ Inaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=inaldomacena&show_icons=true&theme=radical)
+
 
 ### Linguagens que utilizo
 <div style="display: inline_bloco"><br>
@@ -24,4 +24,6 @@
 </div>
 
 
+![ Inaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=inaldomacena&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inaldomacena)](https://github.com/inaldomacena/github-readme-stats)
 
