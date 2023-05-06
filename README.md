@@ -23,3 +23,5 @@
 <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit"/
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inaldomacena&langs_count=8)](https://github.com/inaldomacena/github-readme-stats)
+
