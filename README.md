@@ -7,8 +7,8 @@
  💻 Técnico em Redes de Computadores
 
 ### Hobbys e Experimentos 
-🔗  Criador do <a href="https://www.instagram.com/dicionariodeinformatica3/"> @dicionariodeinformatica3</a> perfil no Instagram que compartilhar curiosidades sobre o mundo da computação e suas tecnologias <br>
-🎙️   Tenho uma Web Rádio, o nome dela é Alternativa Rock e o seu endereço na internet é <a href= "https://alternativarockwebradio.netlify.app/"> https://alternativarockwebradio.netlify.app/</a> a minha rádio tambem tem um endereço no instagram é <a href="https://www.instagram.com/alternativarockwebradio/"> @alternativarockwebradio   <br>
+🔗  Criador do <a href="https://www.instagram.com/dicionariodeinformatica3/" target="_blank" > @dicionariodeinformatica3</a> perfil no Instagram que compartilhar curiosidades sobre o mundo da computação e suas tecnologias <br>
+🎙️   Tenho uma Web Rádio, o nome dela é Alternativa Rock e o seu endereço na internet é <a href= "https://alternativarockwebradio.netlify.app/"target="_blank" > https://alternativarockwebradio.netlify.app/</a> a minha rádio tambem tem um endereço no instagram é <a href="https://www.instagram.com/alternativarockwebradio/"target="_blank"> @alternativarockwebradio   <br>
 
 <a href="https://github.com/inaldomacena">![blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 </a>
