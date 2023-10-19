@@ -8,7 +8,7 @@
 
 ### Hobbys e Experimentos 
 🔗  Criador do <a href="https://www.instagram.com/dicionariodeinformatica3/"> @dicionariodeinformatica3</a> perfil no Instagram que compartilhar curiosidades sobre o mundo da computação e suas tecnologias <br>
-🎙️   Tenho uma Web Rádio, o nome da minha radio é Alternativa Rock Web Rádio e o seu endereço na internet é https://alternativarockwebradio.netlify.app/ a minha rádio tambem tem um endereço no instagram é <a href="https://www.instagram.com/alternativarockwebradio/"> @alternativarockwebradio   <br>
+🎙️   Tenho uma Web Rádio, o nome dela é Alternativa Rock Web Rádio e o seu endereço na internet é <a href= "https://alternativarockwebradio.netlify.app/"> a minha rádio tambem tem um endereço no instagram é <a href="https://www.instagram.com/alternativarockwebradio/"> @alternativarockwebradio   <br>
 
 <a href="https://github.com/inaldomacena">![blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 </a>
