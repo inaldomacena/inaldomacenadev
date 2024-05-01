@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 <img src="https://img.shields.io/badge/Angular-CC0000?style=for-the-badge&logo=Angular&logoColor=white" alt="Angular"/>
- <img src="https://img.shields.io/badge/NodeJS-8FCE00?style=for-the-badge&logo=NodeJS&logoColor=white" alt="NodeJS"/>
+<img src="https://img.shields.io/badge/NodeJS-8FCE00?style=for-the-badge&logo=NodeJS&logoColor=white" alt="NodeJS"/>
  </div>
  
   ### Ferramentas que utilizo
@@ -36,6 +36,7 @@
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual studio code"/>
 <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit"/>
+<img src="https://img.shields.io/badge/Git-C90076?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>
 </div>
 
 
