@@ -26,7 +26,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
- <img src="https://img.shields.io/badge/Angular-CC0000?style=for-the-badge&logo=Angular&logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/Angular-CC0000?style=for-the-badge&logo=Angular&logoColor=white" alt="Angular"/>
+ <img src="https://img.shields.io/badge/NodeJS-8FCE00?style=for-the-badge&logo=NodeJS&logoColor=white" alt="NodeJS"/>
  </div>
  
   ### Ferramentas que utilizo
