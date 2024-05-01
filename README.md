@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 <img src="https://img.shields.io/badge/Angular-CC0000?style=for-the-badge&logo=Angular&logoColor=white" alt="Angular"/>
 <img src="https://img.shields.io/badge/NodeJS-8FCE00?style=for-the-badge&logo=NodeJS&logoColor=white" alt="NodeJS"/>
+<img src="https://img.shields.io/badge/Typescript-005EFF?style=for-the-badge&logo=Typescript&logoColor=white" alt="Typescript"/>
  </div>
  
   ### Ferramentas que utilizo
