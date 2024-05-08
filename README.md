@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit"/>
 <img src="https://img.shields.io/badge/Git-C90076?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-600031?style=for-the-badge&logo=AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/AmazonWebServices-600031?style=for-the-badge&logo=AWS&logoColor=white"/>
 </div>
 
 
