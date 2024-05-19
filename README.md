@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 <img src="https://img.shields.io/badge/Angular-CC0000?style=for-the-badge&logo=Angular&logoColor=white" alt="Angular"/>
-<img src="https://img.shields.io/badge/Django-331170?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/Django-2E8B57?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/>
 <img src="https://img.shields.io/badge/NodeJS-8FCE00?style=for-the-badge&logo=NodeJS&logoColor=white" alt="NodeJS"/>
 <img src="https://img.shields.io/badge/Typescript-005EFF?style=for-the-badge&logo=Typescript&logoColor=white" alt="Typescript"/>
 <img src="https://img.shields.io/badge/Flask-107109?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask"/>
