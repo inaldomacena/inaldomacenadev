@@ -19,7 +19,7 @@
 
 
 
-### Linguagens de programação e Framewoks
+### Linguagens de programação e frameworks
 <div style="display: inline_bloco"><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3"/>
@@ -27,9 +27,10 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 <img src="https://img.shields.io/badge/Angular-CC0000?style=for-the-badge&logo=Angular&logoColor=white" alt="Angular"/>
- <img src="https://img.shields.io/badge/Django-331170?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/Django-331170?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/>
 <img src="https://img.shields.io/badge/NodeJS-8FCE00?style=for-the-badge&logo=NodeJS&logoColor=white" alt="NodeJS"/>
 <img src="https://img.shields.io/badge/Typescript-005EFF?style=for-the-badge&logo=Typescript&logoColor=white" alt="Typescript"/>
+<img src="https://img.shields.io/badge/Typescript-00FF00?style=for-the-badge&logo=Typescript&logoColor=white" alt="Flask"/>
  </div>
  
   ### Ferramentas que utilizo
@@ -40,9 +41,9 @@
 <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit"/>
 <img src="https://img.shields.io/badge/Git-C90076?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-<img src="https://img.shields.io/badge/AmazonWebServices-600031?style=for-the-badge&logo=AWS&logoColor=white"alt="AWS"/>
- <img src="https://img.shields.io/badge/MongoDB-ADFF2F?style=for-the-badge&logo=MongoDB&logoColor=white"alt="MongoDB"/>
- <img src="https://img.shields.io/badge/SQLite-87CEEB?style=for-the-badge&logo=SQLite&logoColor=white"alt="SQLite"/>
+<img src="https://img.shields.io/badge/AmazonWebServices-600031?style=for-the-badge&logo=AWS&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/MongoDB-ADFF2F?style=for-the-badge&logo=MongoDB&logoColor=white"  alt="MongoDB"/>
+<img src="https://img.shields.io/badge/SQLite-87CEEB?style=for-the-badge&logo=SQLite&logoColor=white"  alt="SQLite"/>
 </div>
 
 
