@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Django-331170?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/>
 <img src="https://img.shields.io/badge/NodeJS-8FCE00?style=for-the-badge&logo=NodeJS&logoColor=white" alt="NodeJS"/>
 <img src="https://img.shields.io/badge/Typescript-005EFF?style=for-the-badge&logo=Typescript&logoColor=white" alt="Typescript"/>
-<img src="https://img.shields.io/badge/Typescript-00FF00?style=for-the-badge&logo=Typescript&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Flask-00FF00?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask"/>
  </div>
  
   ### Ferramentas que utilizo
@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual studio code"/>
-<img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit"/>
+<img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit"/>
 <img src="https://img.shields.io/badge/Git-C90076?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 <img src="https://img.shields.io/badge/AmazonWebServices-600031?style=for-the-badge&logo=AWS&logoColor=white" alt="AWS"/>
