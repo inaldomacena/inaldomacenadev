@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/Git-C90076?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/AmazonWebServices-600031?style=for-the-badge&logo=AWS&logoColor=white"/>
- <img src="https://img.shields.io/badge/MongoDB-600031?style=for-the-badge&logo=MongoDB&logoColor=Green"/>
+ <img src="https://img.shields.io/badge/MongoDB-ADFF2F?style=for-the-badge&logo=MongoDB&logoColor=Green"/>
  <img src="https://img.shields.io/badge/SQLite-600031?style=for-the-badge&logo=SQLite&logoColor=white"/>
 </div>
 
