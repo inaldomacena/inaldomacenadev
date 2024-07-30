@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/NodeJS-98FB98?style=for-the-badge&logo=NodeJS&logoColor=white" alt="NodeJS"/>
 <img src="https://img.shields.io/badge/Typescript-005EFF?style=for-the-badge&logo=Typescript&logoColor=white" alt="Typescript"/>
 <img src="https://img.shields.io/badge/Flask-107109?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask"/>
+ <img src="https://img.shields.io/badge/Markdown-107109?style=for-the-badge&logo=Markdownk&logoColor=white" alt="Markdown"/>
  </div>
  
   ### Ferramentas que utilizo
