@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/Typescript-005EFF?style=for-the-badge&logo=Typescript&logoColor=white" alt="Typescript"/>
 <img src="https://img.shields.io/badge/Flask-107109?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask"/>
  <br>
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdownk&logoColor=white" alt="Markdown"/>
+<img src="https://img.shields.io/badge/Markdown-0F10A0?style=for-the-badge&logo=Markdownk&logoColor=white" alt="Markdown"/>
  </div>
  
   ### Ferramentas que utilizo
