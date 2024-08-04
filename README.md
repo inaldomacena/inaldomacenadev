@@ -12,8 +12,7 @@
  alternativarockwebradio.netlify.app</a><br>
  a minha rádio tambem tem um perfil no instagram: <a href="https://www.instagram.com/alternativarockwebradio/"> @alternativarockwebradio </a>siga nos.
 
-<a href="https://github.com/inaldomacena">![blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-</a>
+
 
 
 
