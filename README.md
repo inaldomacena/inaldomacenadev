@@ -37,8 +37,8 @@
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual studio code"/>
 <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit"/>
+  <br>
 <img src="https://img.shields.io/badge/Git-FF8C00?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>
- <br>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 <img src="https://img.shields.io/badge/AmazonWebServices-2F4F4F?style=for-the-badge&logo=AWS&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/MongoDB-7FFF00?style=for-the-badge&logo=MongoDB&logoColor=white"  alt="MongoDB"/>
