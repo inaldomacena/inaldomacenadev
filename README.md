@@ -13,11 +13,6 @@
  a minha rádio tambem tem um perfil no instagram: <a href="https://www.instagram.com/alternativarockwebradio/"> @alternativarockwebradio </a>siga nos.
 
 
-
-
-
-
-
 ### Linguagens de programação, frameworks e ferramentas que utilizo
 <div style="display: inline_bloco"><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5"/>
@@ -46,6 +41,6 @@
 </div>
 
 
-![ Inaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=inaldomacena&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inaldomacena)](https://github.com/inaldomacena/github-readme-stats)
+<!![ Inaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=inaldomacena&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inaldomacena)](https://github.com/inaldomacena/github-readme-stats)--!>
 
