@@ -41,6 +41,6 @@
 </div>
 
 
-![Inaldo Macena GitHub stats](https://github-readme-stats.vercel.app/api?username=inaldomacena&show_icons=true)
+![inaldomacena GitHub stats](https://github-readme-stats.vercel.app/api?username=inaldomacena&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inaldomacena&layout=pie)](https://github.com/inaldomacena/github-readme-stats)
 
